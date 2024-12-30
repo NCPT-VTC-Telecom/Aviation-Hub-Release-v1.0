@@ -1,0 +1,7 @@
+{
+  "name": "com.bamboo_vtc_v1",
+  "displayName": "Fly Store",
+  "android": {
+    "package": "com.anonymous.com.bamboo_vtc_v1"
+  }
+}

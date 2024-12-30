@@ -1,0 +1,942 @@
+{
+    "Tài khoản": {
+        "Vietnamese": "Tài khoản",
+        "English": "Username"
+    },
+    "Mật khẩu": {
+        "Vietnamese": "Mật khẩu",
+        "English": "Password"
+    },
+    "Xin chào": {
+        "Vietnamese": "Xin chào",
+        "English": "Hello"
+    },
+    "Xem thông tin chặng bay": {
+        "Vietnamese": "Xem thông tin chặng bay",
+        "English": "View flight information"
+    },
+    "Đăng nhập": {
+        "Vietnamese": "Đăng nhập",
+        "English": "Login"
+    },
+    "Nhập họ tên": {
+        "Vietnamese": "Nhập họ tên",
+        "English": "Enter your username"
+    },
+    "Nhập mật khẩu": {
+        "Vietnamese": "Nhập mật khẩu",
+        "English": "Enter your password"
+    },
+    "Chức năng chính": {
+        "Vietnamese": "Chức năng chính",
+        "English": "Main function"
+    },
+    "Mã truy cập": {
+        "Vietnamese": "Mã truy cập",
+        "English": "Wifi vouchers"
+    },
+    "Nâng hạng": {
+        "Vietnamese": "Nâng hạng",
+        "English": "Upgrade Tickets"
+    },
+    "Kho voucher": {
+        "Vietnamese": "Kho voucher",
+        "English": "Voucher store"
+    },
+    "Đã bán": {
+        "Vietnamese": "Đã bán",
+        "English": "Sold"
+    },
+    "Đồng bộ": {
+        "Vietnamese": "Đồng bộ",
+        "English": "Sync"
+    },
+    "Trang chủ": {
+        "Vietnamese": "Trang chủ",
+        "English": "Home"
+    },
+    "Thông báo": {
+        "Vietnamese": "Thông báo",
+        "English": "Notification"
+    },
+    "Mã nhân viên": {
+        "Vietnamese": "Mã nhân viên",
+        "English": "Employee code"
+    },
+    "Họ tên": {
+        "Vietnamese": "Họ tên",
+        "English": "Name"
+    },
+    "Chọn sản phẩm": {
+        "Vietnamese": "Chọn sản phẩm",
+        "English": "Select product"
+    },
+    "Quyền lợi": {
+        "Vietnamese": "Quyền lợi",
+        "English": "Benefit"
+    },
+    "Tiền tệ": {
+        "Vietnamese": "Tiền tệ",
+        "English": "Currency"
+    },
+    "Đơn giá": {
+        "Vietnamese": "Đơn giá",
+        "English": "Prices"
+    },
+    "Số lượng": {
+        "Vietnamese": "Số lượng",
+        "English": "Quantity"
+    },
+    "Thành tiền": {
+        "Vietnamese": "Thành tiền",
+        "English": "Total"
+    },
+    "Lấy mã": {
+        "Vietnamese": "Lấy mã",
+        "English": "Get code"
+    },
+    "Hết hạn mức": {
+        "Vietnamese": "Hết hạn mức",
+        "English": "Limit expires"
+    },
+    "Quá hạn kho": {
+        "Vietnamese": "Quá hạn kho",
+        "English": "Voucher stores isn't enough"
+    },
+    "Đơn hàng trong chuyến bay": {
+        "Vietnamese": "Đơn hàng trong chuyến bay",
+        "English": "In-flight orders"
+    },
+    "Mã truy cập wifi cho khách hàng": {
+        "Vietnamese": "Mã truy cập wifi cho khách hàng",
+        "English": "Wifi access code for customers"
+    },
+    "Mã nâng hạng wifi cho khách hàng": {
+        "Vietnamese": "Mã nâng hạng wifi cho khách hàng",
+        "English": "Upgrade Tickets for customers"
+    },
+    "Nâng hạng thẻ truy cập wifi": {
+        "Vietnamese": "Nâng hạng thẻ truy cập wifi",
+        "English": "Upgrade wifi access card"
+    },
+    "Kho": {
+        "Vietnamese": "Kho",
+        "English": "Store"
+    },
+    "Mã truy cập fly wifi": {
+        "Vietnamese": "Mã truy cập fly wifi",
+        "English": "Access code fly wifi"
+    },
+    "Mã nâng hạng": {
+        "Vietnamese": "Mã nâng hạng",
+        "English": "Upgrade code"
+    },
+    "Số hiệu": {
+        "Vietnamese": "Số hiệu",
+        "English": "Flight number"
+    },
+    "Chặng bay": {
+        "Vietnamese": "Chặng bay",
+        "English": "Flight segment"
+    },
+    "Ngày bay": {
+        "Vietnamese": "Ngày bay",
+        "English": "Date"
+    },
+    "Thời gian bay": {
+        "Vietnamese": "Thời gian bay",
+        "English": "Time"
+    },
+    "Giờ bay": {
+        "Vietnamese": "Giờ bay",
+        "English": "Time"
+    },
+    "Cập nhật": {
+        "Vietnamese": "Cập nhật",
+        "English": "Update"
+    },
+    "Thông tin chặng bay": {
+        "Vietnamese": "Thông tin chặng bay",
+        "English": "Flight information"
+    },
+    "Thành công": {
+        "Vietnamese": "Thành công",
+        "English": "Success"
+    },
+    "Đồng bộ dữ liệu thành công": {
+        "Vietnamese": "Đồng bộ dữ liệu thành công",
+        "English": "Data sync successful"
+    },
+    "Thất bại": {
+        "Vietnamese": "Thất bại",
+        "English": "Failure"
+    },
+    "Đồng bộ dữ liệu thất bại": {
+        "Vietnamese": "Đồng bộ dữ liệu thất bại",
+        "English": "Data sync failed"
+    },
+    "Lỗi": {
+        "Vietnamese": "Lỗi",
+        "English": "Error"
+    },
+    "Số lượng phải là số nguyên": {
+        "Vietnamese": "Số lượng phải là số nguyên",
+        "English": "Quantity must be integer"
+    },
+    "Số lượng phải lớn hơn 0": {
+        "Vietnamese": "Số lượng phải lớn hơn 0",
+        "English": "Quantity must be greater than 0"
+    },
+    "Mã nhân viên và họ tên không được để trống": {
+        "Vietnamese": "Mã nhân viên và họ tên không được để trống",
+        "English": "Both employee code and fullname are not empty"
+    },
+    "Cật nhật thành công": {
+        "Vietnamese": "Cật nhật thành công",
+        "English": "Update successful"
+    },
+    "Kho voucher rỗng": {
+        "Vietnamese": "Kho voucher rỗng",
+        "English": "Voucher store is empty"
+    },
+    "Số lượng vượt quá kho": {
+        "Vietnamese": "Số lượng vượt quá kho",
+        "English": "Quantity exceeds store"
+    },
+    "Sai tiếp viên": {
+        "Vietnamese": "Sai tiếp viên",
+        "English": "Employee code does not exist"
+    },
+    "Nhập mã nhân viên": {
+        "Vietnamese": "Nhập mã nhân viên",
+        "English": "Enter employee code"
+    },
+    "Ngôn ngữ": {
+        "Vietnamese": "Ngôn ngữ",
+        "English": "Language"
+    },
+    "Cài đặt": {
+        "Vietnamese": "Cài đặt",
+        "English": "Setting"
+    },
+    "Chức năng khác": {
+        "Vietnamese": "Chức năng khác",
+        "English": "Other function"
+    },
+    "Đăng nhập thành công": {
+        "Vietnamese": "Đăng nhập thành công",
+        "English": "Login successful"
+    },
+    "Đăng nhập thất bại": {
+        "Vietnamese": "Đăng nhập thất bại",
+        "English": "Login failed"
+    },
+    "Đồng bộ thất bại": {
+        "Vietnamese": "Đồng bộ thất bại",
+        "English": "Sync failed"
+    },
+    "Không có kết nối. Vui lòng kết nối mạng và thử lại": {
+        "Vietnamese": "Không có kết nối. Vui lòng kết nối mạng và thử lại",
+        "English": "No connection. Please connect to the network and try again"
+    },
+    "Đăng xuất": {
+        "Vietnamese": "Đăng xuất",
+        "English": "Log out"
+    },
+    "Xóa": {
+        "Vietnamese": "Xóa",
+        "English": "Delete"
+    },
+    "Xóa đơn hàng": {
+        "Vietnamese": "Xóa đơn hàng",
+        "English": "Delete a order"
+    },
+    "Bạn muốn xóa đơn hàng đầu tiên?": {
+        "Vietnamese": "Bạn muốn xóa đơn hàng đầu tiên?",
+        "English": "Do you want to delete your first order?"
+    },
+    "Tìm kiếm": {
+        "Vietnamese": "Tìm kiếm",
+        "English": "Search"
+    },
+    "Số CCCD": {
+        "Vietnamese": "Số CCCD",
+        "English": "CCCD ID"
+    },
+    "Ngày sinh": {
+        "Vietnamese": "Ngày sinh",
+        "English": "Day of birth"
+    },
+    "Giới tính": {
+        "Vietnamese": "Giới tính",
+        "English": "Sex"
+    },
+    "Quê quán": {
+        "Vietnamese": "Quê quán",
+        "English": "Address residence"
+    },
+    "Quốc tịch": {
+        "Vietnamese": "Quốc tịch",
+        "English": "Nationality"
+    },
+    "Ngày hết hạn": {
+        "Vietnamese": "Ngày hết hạn",
+        "English": "Date end"
+    },
+    "Ngày phát hành": {
+        "Vietnamese": "Ngày phát hành",
+        "English": "Date created"
+    },
+    "Nơi cấp": {
+        "Vietnamese": "Nơi cấp",
+        "English": "Issued by"
+    },
+    "Xác thực thông tin": {
+        "Vietnamese": "Xác thực thông tin",
+        "English": "Verify information"
+    },
+    "Quản lý sim": {
+        "Vietnamese": "Quản lý sim",
+        "English": "Manage sim"
+    },
+    "Xin chào Vtctelecome": {
+        "Vietnamese": "Xin chào Vtctelecome",
+        "English": "Hello Vtctelecome"
+    },
+    "Đăng ký": {
+        "Vietnamese": "Đăng ký",
+        "English": "Register"
+    },
+    "Đăng ký thuê bao": {
+        "Vietnamese": "Đăng ký thuê bao",
+        "English": "Subscriber registration"
+    },
+    "Nhập số điện thoại đăng ký ": {
+        "Vietnamese": "Nhập số điện thoại đăng ký ",
+        "English": "Enter registered phone number "
+    },
+    "Tìm kiếm theo số điện thoại, số serial": {
+        "Vietnamese": "Tìm kiếm theo số điện thoại, số serial",
+        "English": "Search by phone number, serial number"
+    },
+    "Sẵn sàng cho việc chụp ảnh selfies của bạn": {
+        "Vietnamese": "Sẵn sàng cho việc chụp ảnh selfies của bạn",
+        "English": "Ready for your selfie"
+    },
+    "Vui lòng chụp ảnh chân dung của bạn": {
+        "Vietnamese": "Vui lòng chụp ảnh chân dung của bạn",
+        "English": "Please take a photo of yourself"
+    },
+    "Chụp ảnh": {
+        "Vietnamese": "Chụp ảnh",
+        "English": "Take photo"
+    },
+    "Tiếp tục": {
+        "Vietnamese": "Tiếp tục",
+        "English": "Continute"
+    },
+    "Chọn loại giấy tờ tùy thân": {
+        "Vietnamese": "Chọn loại giấy tờ tùy thân",
+        "English": "Select the type of identification document"
+    },
+    "Để hoàn tất đăng ký của bạn": {
+        "Vietnamese": "Để hoàn tất đăng ký của bạn",
+        "English": "To complete your registration"
+    },
+    "Vui lòng tải lên bản sao giấy tờ tùy thân của bạn": {
+        "Vietnamese": "Vui lòng tải lên bản sao giấy tờ tùy thân của bạn",
+        "English": "Please upload a copy of your ID"
+    },
+    "Mặt trước": {
+        "Vietnamese": "Mặt trước",
+        "English": "Front"
+    },
+    "Mặt sau": {
+        "Vietnamese": "Mặt sau",
+        "English": "Back"
+    },
+    "Chúng tôi chỉ chấp nhận": {
+        "Vietnamese": "Chúng tôi chỉ chấp nhận",
+        "English": "We only accept"
+    },
+    "Địa chỉ": {
+        "Vietnamese": "Địa chỉ",
+        "English": "Address"
+    },
+    "Thông tin khách hàng": {
+        "Vietnamese": "Thông tin khách hàng",
+        "English": "Customer information"
+    },
+    "Số điện thoại": {
+        "Vietnamese": "Số điện thoại",
+        "English": "Phone number"
+    },
+    "Thông tin thuê bao và gói cước": {
+        "Vietnamese": "Thông tin thuê bao và gói cước",
+        "English": "Subscriber information and tariff plan"
+    },
+    "Mã serial sim": {
+        "Vietnamese": "Mã serial sim",
+        "English": "Serial sim code"
+    },
+    "Gói cước": {
+        "Vietnamese": "Gói cước",
+        "English": "Type"
+    },
+    "Mất kết nối": {
+        "Vietnamese": "Mất kết nối",
+        "English": "Network request failed"
+    },
+    "Lỗi ảnh": {
+        "Vietnamese": "Lỗi ảnh",
+        "English": "Image error"
+    },
+    "Số ID card/Passport": {
+        "Vietnamese": "Số ID card/Passport",
+        "English": "ID card/Passport number"
+    },
+    "Nam": {
+        "Vietnamese": "Nam",
+        "English": "Male"
+    },
+    "Nữ": {
+        "Vietnamese": "Nữ",
+        "English": "Female"
+    },
+    "Thông tin gói cước": {
+        "Vietnamese": "Thông tin gói cước",
+        "English": "Package information"
+    },
+    "Tên gói cước": {
+        "Vietnamese": "Tên gói cước",
+        "English": "Type"
+    },
+    "Ngày đăng ký": {
+        "Vietnamese": "Ngày đăng ký",
+        "English": "Registration Date"
+    },
+    "Tình trạng": {
+        "Vietnamese": "Tình trạng",
+        "English": "Status"
+    },
+    "Thông tin thuê bao": {
+        "Vietnamese": "Thông tin thuê bao",
+        "English": "Subscriber information"
+    },
+    "Số điện thoại đăng ký": {
+        "Vietnamese": "Số điện thoại đăng ký",
+        "English": "Registered phone number"
+    },
+    "Ảnh giấy tờ tùy thân & chân dung": {
+        "Vietnamese": "Ảnh giấy tờ tùy thân & chân dung",
+        "English": "Identity documents & portraits"
+    },
+    "Ảnh chân dung": {
+        "Vietnamese": "Ảnh chân dung",
+        "English": "Portrait"
+    },
+    "Nhập số serial": {
+        "Vietnamese": "Nhập số serial",
+        "English": "Enter serial number"
+    },
+    "Nhập số điện thoại": {
+        "Vietnamese": "Nhập số điện thoại",
+        "English": "Enter your phone number"
+    },
+    "Nhập ID card/Passport": {
+        "Vietnamese": "Nhập ID card/Passport",
+        "English": "Enter your ID card/Passport"
+    },
+    "Nhập địa chỉ": {
+        "Vietnamese": "Nhập địa chỉ",
+        "English": "Enter your address"
+    },
+    "Tổng số sim bán được trong hôm nay": {
+        "Vietnamese": "Tổng số sim bán được trong hôm nay",
+        "English": "Total number of sims sold today"
+    },
+    "Đã đồng bộ": {
+        "Vietnamese": "Đã đồng bộ",
+        "English": "Synced"
+    },
+    "Nạp tiền": {
+        "Vietnamese": "Nạp tiền",
+        "English": "Recharge"
+    },
+    "Chưa đồng bộ": {
+        "Vietnamese": "Chưa đồng bộ",
+        "English": "Out of sync"
+    },
+    "Đồng bộ ảnh thất bại": {
+        "Vietnamese": "Đồng bộ ảnh thất bại",
+        "English": "Photo sync failed"
+    },
+    "Vui lòng điền đầy đủ thông tin và thử lại": {
+        "Vietnamese": "Vui lòng điền đầy đủ thông tin và thử lại",
+        "English": "Please fill in all information and try again"
+    },
+    "Vui lòng điền đầy đủ thông tin chuyến bay và thử lại": {
+        "Vietnamese": "Vui lòng điền đầy đủ thông tin chuyến bay và thử lại",
+        "English": "Please fill in your flight details and try again"
+    },
+    "Họ tên không được bỏ trống": {
+        "Vietnamese": "Họ tên không được bỏ trống",
+        "English": "Name cannot be left blank"
+    },
+    "ID card/Passport không được bỏ trống": {
+        "Vietnamese": "ID card/Passport không được bỏ trống",
+        "English": "ID card/Passport cannot be left blank"
+    },
+    "Số điện thoại đăng ký không được bỏ trống": {
+        "Vietnamese": "Số điện thoại đăng ký không được bỏ trống",
+        "English": "Registered phone number cannot be left blank"
+    },
+    "Địa chỉ không được bỏ trống": {
+        "Vietnamese": "Địa chỉ không được bỏ trống",
+        "English": "Address cannot be left blank"
+    },
+    "Số điện thoại không được bỏ trống": {
+        "Vietnamese": "Số điện thoại không được bỏ trống",
+        "English": "Phone number cannot be left blank"
+    },
+    "Số serial không được bỏ trống": {
+        "Vietnamese": "Số serial không được bỏ trống",
+        "English": "Serial number cannot be left blank"
+    },
+    "Thông tin cá nhân": {
+        "Vietnamese": "Thông tin cá nhân",
+        "English": "Personal information"
+    },
+    "Quốc tịch không được bỏ trống": {
+        "Vietnamese": "Quốc tịch không được bỏ trống",
+        "English": "Nationality cannot be left blank"
+    },
+    "Nhập quốc tịch": {
+        "Vietnamese": "Nhập quốc tịch",
+        "English": "Enter nationality"
+    },
+    "Hủy": {
+        "Vietnamese": "Hủy",
+        "English": "Cancel"
+    },
+    "Xác nhận": {
+        "Vietnamese": "Xác nhận",
+        "English": "Confirm"
+    },
+    "CCCD mặt sau": {
+        "Vietnamese": "CCCD mặt sau",
+        "English": "CCCD back side"
+    },
+    "CCCD mặt trước": {
+        "Vietnamese": "CCCD mặt trước",
+        "English": "CCCD front side"
+    },
+    "Vui lòng tải đầy đủ ảnh": {
+        "Vietnamese": "Vui lòng tải đầy đủ ảnh",
+        "English": "Please download the full picture"
+    },
+    "Bán mã truy cập wifi": {
+        "Vietnamese": "Bán mã truy cập wifi",
+        "English": "Sell wifi access code"
+    },
+    "Dữ liệu chưa đồng bộ": {
+        "Vietnamese": "Dữ liệu chưa đồng bộ",
+        "English": "Data out of sync"
+    },
+    "Bạn có muốn đồng bộ dữ liệu khách hàng đã mua sim": {
+        "Vietnamese": "Bạn có muốn đồng bộ dữ liệu khách hàng đã mua sim",
+        "English": "Do you want to synchronize data of customers who have purchased sims?"
+    },
+    "Đang đồng bộ": {
+        "Vietnamese": "Đang đồng bộ",
+        "English": "Syncing"
+    },
+    "Đang đăng nhập": {
+        "Vietnamese": "Đang đăng nhập",
+        "English": "Currently logged in"
+    },
+    "Đang kiểm tra thông tin đăng nhập": {
+        "Vietnamese": "Đang kiểm tra thông tin đăng nhập",
+        "English": "Checking login information"
+    },
+    "Đang đồng bộ dữ liệu khách hàng": {
+        "Vietnamese": "Đang đồng bộ dữ liệu khách hàng",
+        "English": "Synchronizing customer data"
+    },
+    "Đang tải dữ liệu sim": {
+        "Vietnamese": "Đang tải dữ liệu sim",
+        "English": "Loading sim data"
+    },
+    "Thiết bị đăng nhập không hợp lệ": {
+        "Vietnamese": "Thiết bị đăng nhập không hợp lệ",
+        "English": "Invalid login device"
+    },
+    "Đang xử lý": {
+        "Vietnamese": "Đang xử lý",
+        "English": "Processing"
+    },
+    "Xem thông tin": {
+        "Vietnamese": "Xem thông tin",
+        "English": "View info"
+    },
+    "Xác minh thông tin": {
+        "Vietnamese": "Xác minh thông tin",
+        "English": "Verify info"
+    },
+    "Thông tin đã lưu": {
+        "Vietnamese": "Thông tin đã lưu",
+        "English": "Information saved"
+    },
+    "Đổi mật khẩu": {
+        "Vietnamese": "Đổi mật khẩu",
+        "English": "Change password"
+    },
+    "Mật khẩu hiện tại": {
+        "Vietnamese": "Mật khẩu hiện tại",
+        "English": "Current password"
+    },
+    "Mật khẩu mới": {
+        "Vietnamese": "Mật khẩu mới",
+        "English": "New password"
+    },
+    "Tối thiểu 8 ký tự": {
+        "Vietnamese": "Tối thiểu 8 ký tự",
+        "English": "Min of 8 characters"
+    },
+    "Xác nhận mật khẩu mới": {
+        "Vietnamese": "Xác nhận mật khẩu mới",
+        "English": "Confirm new password"
+    },
+    "Nhập mật khẩu hiện tại": {
+        "Vietnamese": "Nhập mật khẩu hiện tại",
+        "English": "Enter current password"
+    },
+    "Nhập mật khẩu mới": {
+        "Vietnamese": "Nhập mật khẩu mới",
+        "English": "Enter new password"
+    },
+    "Lưu thay đổi": {
+        "Vietnamese": "Lưu thay đổi",
+        "English": "Save changes"
+    },
+    "Xác nhận mật khẩu không trùng khớp": {
+        "Vietnamese": "Xác nhận mật khẩu không trùng khớp",
+        "English": "Confirm password does not match"
+    },
+    "Mật khẩu tối thiểu 8 ký tự": {
+        "Vietnamese": "Mật khẩu tối thiểu 8 ký tự",
+        "English": "Password minimum 8 characters"
+    },
+    "Đóng": {
+        "Vietnamese": "Đóng",
+        "English": "Close"
+    },
+    "Chọn": {
+        "Vietnamese": "Chọn",
+        "English": "Select"
+    },
+    "Chọn nhân viên bán": {
+        "Vietnamese": "Chọn nhân viên bán",
+        "English": "Choose a salesperson"
+    },
+    "Thay đổi mật khẩu thành công": {
+        "Vietnamese": "Thay đổi mật khẩu thành công",
+        "English": "Passwort changed"
+    },
+    "Đổi mật khẩu thấy bại": {
+        "Vietnamese": "Đổi mật khẩu thấy bại",
+        "English": "Change password failed"
+    },
+    "Cập nhật thông tin hành trình": {
+        "Vietnamese": "Cập nhật thông tin hành trình",
+        "English": "Update itinerary information"
+    },
+    "Vui lòng cập nhật thông tin hành trình trước mỗi chuyến bay. Để tiếp tục thao tác trên app, việc cập nhật thông tin là bắt buộc.\nXin cảm ơn!": {
+        "Vietnamese": "Vui lòng cập nhật thông tin hành trình trước mỗi chuyến bay. Để tiếp tục thao tác trên app, việc cập nhật thông tin là bắt buộc.\nXin cảm ơn!",
+        "English": "Please update your itinerary before each flight. To continue working on the app, updating information is required.\nThank you!"
+    },
+    "ID card/Passport không đúng định dạng": {
+        "Vietnamese": "ID card/Passport không đúng định dạng",
+        "English": "ID card/Passport is not in the correct format"
+    },
+    "Số điện thoại không đúng định dạng": {
+        "Vietnamese": "Số điện thoại không đúng định dạng",
+        "English": "Phone number is not in the correct format"
+    },
+    "Số serial không đúng định dạng": {
+        "Vietnamese": "Số serial không đúng định dạng",
+        "English": "Serial number is not in the correct format"
+    },
+    "Đồng bộ lại để cập nhật chuyến bay mới": {
+        "Vietnamese": "Đồng bộ lại để cập nhật chuyến bay mới",
+        "English": "Re-sync for new flight updates"
+    },
+    "Dữ liệu đã được lưu vào máy. Cần Internet để đồng bộ lên hệ thống.": {
+        "Vietnamese": "Dữ liệu đã được lưu vào máy. Cần Internet để đồng bộ lên hệ thống.",
+        "English": "The data has been saved to the device. Internet is required to sync up the system."
+    },
+    "Lưu": {
+        "Vietnamese": "Lưu",
+        "English": "Save"
+    },
+    "Vui lòng xác nhận lại thông tin trước khi lấy mã. Xin cảm ơn!": {
+        "Vietnamese": "Vui lòng xác nhận lại thông tin trước khi lấy mã. Xin cảm ơn!",
+        "English": "Please confirm the information before getting the code. Thank you!"
+    },
+    "Số serial không tồn tại": {
+        "Vietnamese": "Số serial không tồn tại",
+        "English": "Serial number does not exist"
+    },
+    "Số điện thoại không tồn tại": {
+        "Vietnamese": "Số điện thoại không tồn tại",
+        "English": "Phone number does not exist"
+    },
+    "Thông tin chuyến bay không hợp lệ": {
+        "Vietnamese": "Thông tin chuyến bay không hợp lệ",
+        "English": "Invalid flight information"
+    },
+    "Truy cập không hợp lệ": {
+        "Vietnamese": "Truy cập không hợp lệ",
+        "English": "Invalid access"
+    },
+    "Chuyến bay đã tồn tại trong hệ thống. Vui lòng cập nhật thông tin chuyến bay mới để tiếp tục": {
+        "Vietnamese": "Chuyến bay đã tồn tại trong hệ thống. Vui lòng cập nhật thông tin chuyến bay mới để tiếp tục",
+        "English": "The flight already exists on the system. Please update new flight information to continue"
+    },
+    "Ngày": {
+        "Vietnamese": "Ngày",
+        "English": "Day"
+    },
+    "Tháng": {
+        "Vietnamese": "Tháng",
+        "English": "Month"
+    },
+    "Tất cả": {
+        "Vietnamese": "Tất cả",
+        "English": "All"
+    },
+    "Thông tin đã được cập nhật lên hệ thống": {
+        "Vietnamese": "Thông tin đã được cập nhật lên hệ thống",
+        "English": "The information has been updated to the system"
+    },
+    "Danh sách sim rỗng. Vui lòng đăng xuất và đăng nhập lại để tải dữ liệu sim": {
+        "Vietnamese": "Danh sách sim rỗng. Vui lòng đăng xuất và đăng nhập lại để tải dữ liệu sim",
+        "English": "The list of sims is empty. Please log out and log back in to download sim data"
+    },
+    "Bỏ qua": {
+        "Vietnamese": "Bỏ qua",
+        "English": "Skip"
+    },
+    "Vui lòng [bỏ qua] thông báo này nếu bạn đã cập nhật hành trình chuyến bay để tiếp tục đồng bộ. \nXin cảm ơn!": {
+        "Vietnamese": "Vui lòng [bỏ qua] thông báo này nếu bạn đã cập nhật hành trình chuyến bay để tiếp tục đồng bộ. \nXin cảm ơn!",
+        "English": "Please [ignore] this message if you have updated your flight itinerary to continue syncing. \nThank you!"
+    },
+    "Xác nhận thông tin hành trình": {
+        "Vietnamese": "Xác nhận thông tin hành trình",
+        "English": "Confirm itinerary information"
+    },
+    "Đang kiểm tra": {
+        "Vietnamese": "Đang kiểm tra",
+        "English": "Checking"
+    },
+    "Vui lòng đồng bộ thông tin trước khi đăng xuất": {
+        "Vietnamese": "Vui lòng đồng bộ thông tin trước khi đăng xuất",
+        "English": "Please sync information before logging out"
+    },
+    "Vui lòng đồng bộ thông tin trước khi đổi mật khẩu": {
+        "Vietnamese": "Vui lòng đồng bộ thông tin trước khi đổi mật khẩu",
+        "English": "Please sync information before changing password"
+    },
+    "Tên đăng nhập hoặc mật khẩu không hợp lệ": {
+        "Vietnamese": "Tên đăng nhập hoặc mật khẩu không hợp lệ",
+        "English": "Invalid username or password"
+    },
+    "Nhập số điện thoại đăng ký": {
+        "Vietnamese": "Nhập số điện thoại đăng ký",
+        "English": "Enter registered phone number"
+    },
+    "Vui lòng đặt khuôn mặt vào giữa khung hình": {
+        "Vietnamese": "Vui lòng đặt khuôn mặt vào giữa khung hình",
+        "English": "Please put your face in the center of the frame"
+    },
+    "Nhập thông tin tìm kiếm": {
+        "Vietnamese": "Nhập thông tin tìm kiếm",
+        "English": "Enter search information"
+    },
+    "Vui lòng di chuyển ra xa hơn": {
+        "Vietnamese": "Vui lòng di chuyển ra xa hơn",
+        "English": "Please move further away"
+    },
+    "Xác nhận đăng xuất": {
+        "Vietnamese": "Xác nhận đăng xuất",
+        "English": "Confirm logout"
+    },
+    "Bạn có chắc chắn muốn đăng xuất?": {
+        "Vietnamese": "Bạn có chắc chắn muốn đăng xuất?",
+        "English": "Are you sure you want to logout?"
+    },
+    "Tải dữ liệu thất bại": {
+        "Vietnamese": "Tải dữ liệu thất bại",
+        "English": "Data download failed"
+    },
+    "Bạn chắc chắn muốn tải dữ liệu sim và gói cước mới?": {
+        "Vietnamese": "Bạn chắc chắn muốn tải dữ liệu sim và gói cước mới?",
+        "English": "Are you sure you want to download new sim data and plan?"
+    },
+    "Vui lòng đồng bộ dữ liệu đã bán lên hệ thống trước khi tải dữ liệu sim mới. Xin cảm ơn!!!": {
+        "Vietnamese": "Vui lòng đồng bộ dữ liệu đã bán lên hệ thống trước khi tải dữ liệu sim mới. Xin cảm ơn!!!",
+        "English": "Please sync the sold data to the system before uploading new sim data. Thank you!!!"
+    },
+    "Tải dữ liệu thành công": {
+        "Vietnamese": "Tải dữ liệu thành công",
+        "English": "Download data successfully"
+    },
+    "Sim mới": {
+        "Vietnamese": "Sim mới",
+        "English": "New sim"
+    },
+    "Vui lòng xác nhận thông tin trước khi lưu!": {
+        "Vietnamese": "Vui lòng xác nhận thông tin trước khi lưu!",
+        "English": "Please confirm the information before saving!"
+    },
+    "Đang tải dữ liệu": {
+        "Vietnamese": "Đang tải dữ liệu",
+        "English": "Loading"
+    },
+    "Chọn số thuê bao": {
+        "Vietnamese": "Chọn số thuê bao",
+        "English": "Select subscriber number"
+    },
+    "Xác minh khuôn mặt": {
+        "Vietnamese": "Xác minh khuôn mặt",
+        "English": "Face Verification"
+    },
+    "Chụp ảnh CCCD/Passport": {
+        "Vietnamese": "Chụp ảnh CCCD/Passport",
+        "English": "Take CCCD/Passport photo"
+    },
+    "Điền thông tin": {
+        "Vietnamese": "Điền thông tin",
+        "English": "Fill info"
+    },
+    "Chọn esim": {
+        "Vietnamese": "Chọn esim",
+        "English": "Select esim"
+    },
+    "Quét QR Code": {
+        "Vietnamese": "Quét QR Code",
+        "English": "Scan QRCode"
+    },
+    "Email không được bỏ trống": {
+        "Vietnamese": "Email không được bỏ trống",
+        "English": "Email cannot be left blank"
+    },
+    "Email không đúng định dạng": {
+        "Vietnamese": "Email không đúng định dạng",
+        "English": "Email is not in the correct format"
+    },
+    "Link truy cập QR code cho khách hàng": {
+        "Vietnamese": "Link truy cập QR code cho khách hàng",
+        "English": "QR code access link for customers"
+    },
+    "Esim bán trong chuyến bay": {
+        "Vietnamese": "Esim bán trong chuyến bay",
+        "English": "Esim sold in flight"
+    },
+    "Châu lục": {
+        "Vietnamese": "Châu lục",
+        "English": "Region"
+    },
+    "ASIA": {
+        "Vietnamese": "Châu Á",
+        "English": "Asia"
+    },
+    "EU": {
+        "Vietnamese": "Châu Âu",
+        "English": "Europe"
+    },
+    "US": {
+        "Vietnamese": "Mỹ",
+        "English": "United States"
+    },
+    "AUS": {
+        "Vietnamese": "Úc",
+        "English": "Australia"
+    },
+    "VN": {
+        "Vietnamese": "Việt Nam",
+        "English": "Vietnam"
+    },
+    "Bluetooth chưa được kết nối với máy in. Vào cài đặt để kết nối với máy in.": {
+        "Vietnamese": "Bluetooth chưa được kết nối với máy in. Vào cài đặt để kết nối với máy in.",
+        "English": "Bluetooth is not connected to the printer. Go to settings to connect to the printer."
+    },
+    "Đơn hàng rỗng! Không thể in.": {
+        "Vietnamese": "Đơn hàng rỗng! Không thể in.",
+        "English": "Order is empty! Cannot print."
+    },
+    "Ten nhan vien": {
+        "Vietnamese": "Ten nhan vien",
+        "English": "Employee name"
+    },
+    "TVHK": {
+        "Vietnamese": "TVHK",
+        "English": "F/A"
+    },
+    "So hieu": {
+        "Vietnamese": "So hieu",
+        "English": "Flight number"
+    },
+    "Thoi gian ban": {
+        "Vietnamese": "Thoi gian ban",
+        "English": "Purchase time"
+    },
+    "Gia": {
+        "Vietnamese": "Gia",
+        "English": "Price"
+    },
+    "So luong": {
+        "Vietnamese": "So luong",
+        "English": "Quantity"
+    },
+    "Tong tien": {
+        "Vietnamese": "Tong tien",
+        "English": "Total payment"
+    },
+    "Bluetooth đang tắt": {
+        "Vietnamese": "Bluetooth đang tắt",
+        "English": "Bluetooth is turned off"
+    },
+    "Bluetooth đã được kết nối": {
+        "Vietnamese": "Bluetooth đã được kết nối",
+        "English": "Bluetooth is connected"
+    },
+    "Bluetooth không thể kết nối": {
+        "Vietnamese": "Bluetooth không thể kết nối",
+        "English": "Bluetooth is not connected"
+    },
+    "Đổi mật khẩu thất bại": {
+        "Vietnamese": "Đổi mật khẩu thất bại",
+        "English": "Password change failed"
+    },
+    "Chưa tìm thấy thiết bị hoặc bluetooth": {
+        "Vietnamese": "Chưa tìm thấy thiết bị hoặc bluetooth",
+        "English": "Device or bluetooth not found"
+    },
+    "Vui lòng tắt mở lại máy in và ấn quét thiết bị": {
+        "Vietnamese": "Vui lòng tắt mở lại máy in và ấn quét thiết bị",
+        "English": "Please turn the printer off and on again and press scan for device"
+    },
+    "Ngày phải lớn hơn ngày hiện tại": {
+        "Vietnamese": "Ngày phải lớn hơn ngày hiện tại",
+        "English": "The date must be greater than the current date"
+    },
+    "Thời gian phải lớn hơn thời gian hiện tại": {
+        "Vietnamese": "Thời gian phải lớn hơn thời gian hiện tại",
+        "English": "The time must be greater than the current time"
+    },
+    "Nơi đến": {
+        "Vietnamese": "Nơi đến",
+        "English": "Destination"
+    }
+}
