@@ -1,0 +1,48 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches-ignore:
+      - main # Không cho phép push trực tiếp lên nhánh main, ngoại trừ bạn
+
+  pull_request:
+    branches:
+      - main # Kiểm tra khi có pull request vào nhánh main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20.9.0" # Hoặc version Node.js mà bạn sử dụng
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ESLint
+        run: npm run lint # Giả sử bạn có script lint trong package.json
+
+  test:
+    runs-on: ubuntu-latest
+    needs: lint # Chạy sau khi lint thành công
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20.9.0"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm run test
