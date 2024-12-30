@@ -1,0 +1,104 @@
+/* Điều chỉnh vị trí của pagination */
+.my-swiper-container {
+  margin-bottom: 30px; /* Tạo khoảng cách dưới cùng */
+}
+
+.swiper-wrapper {
+  margin-bottom: 40px;
+}
+.swiper-pagination {
+  /* bottom: -10px !important; Tăng lên để tránh đè lên các nút */
+  left: 0;
+  right: 0;
+}
+
+/* Điều chỉnh vị trí của các nút điều hướng */
+.swiper-button-prev,
+.swiper-button-next {
+  top: 49%;
+  transform: translateY(-50%);
+}
+.swiper-button-prev {
+  left: 25px;
+}
+.swiper-button-next {
+  right: 25px;
+}
+
+.swiper-button-prev,
+.swiper-button-next,
+.swiper-pagination {
+  z-index: 100 !important;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 75px; /* Giảm kích thước nếu cần */
+}
+
+@media (max-width: 768px) {
+  .swiper-pagination {
+    bottom: 15px;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    top: 40%; /* Điều chỉnh lại cho màn hình nhỏ hơn */
+  }
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: transparent; /* Ẩn mũi tên khi không hover */
+  transition: color 0.3s;
+}
+
+.swiper:hover .swiper-button-prev,
+.swiper:hover .swiper-button-next {
+  color: black !important; /* Hiển thị mũi tên màu đen khi hover */
+  cursor: pointer;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  z-index: 10;
+}
+
+.swiper {
+  position: relative;
+}
+
+.swiper::after {
+  display: none;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -50px;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(128, 128, 128, 0.3);
+  z-index: 100;
+  transition: background-color 0.3s;
+  width: 20%;
+}
+
+.swiper::before {
+  display: none;
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -50px;
+  bottom: 0;
+  background-color: rgba(128, 128, 128, 0.3);
+  z-index: 10;
+  transition: background-color 0.3s;
+  width: 20%;
+}
+
+.swiper:hover .swiper::after {
+  display: block;
+}
+
+/* .swiper-button-prev:hover + .swiper::after,
+.swiper-button-next:hover + .swiper::after {
+  display: none;
+} */
