@@ -1,11 +1,11 @@
-# Aviation Hub Release v1.0
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://www.vtctelecom.com.vn/images/deffiles/viLogo.png" width="200" alt="Nest Logo" /></a>
+  <a href="https://www.vtctelecom.com.vn/" target="blank"><img src="https://www.vtctelecom.com.vn/images/deffiles/viLogo.png" width="200" alt="VTC Telecom Logo" /></a>
 </p>
 
 [circleci-image]: https://www.vtctelecom.com.vn/images/deffiles/viLogo.png
 
 
+# Aviation Hub Release v1.0
 ## Folders
 
 - **Frontend (ReactJS)**
