@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+.cls-1,
+.cls-2,
+.cls-3 {
+  fill: #fff;
+}
+.cls-2,
+.cls-3 {
+  stroke: #231f20;
+  stroke-miterlimit: 10;
+}
+.cls-2 {
+  stroke-width: 0.41px;
+}
+.cls-3 {
+  stroke-width: 1.17px;
+}
+
+.ant-picker input::placeholder,
+.ant-input::placeholder {
+  color: #ccc; /* Adjust the color to match the other input field */
+}
+.ant-picker:hover {
+  border-color: rgb(126, 166, 255); /* Blue border on hover */
+  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2); /* Light blue glow */
+}
+
+.date-picker-popup-container {
+  position: relative; /* Đảm bảo position không phải là static */
+  z-index: 99999 !important;
+}
+
+.date-picker-popup-container .ant-picker-dropdown {
+  position: relative; /* Đảm bảo position không phải là static */
+  z-index: 99999 !important;
+}

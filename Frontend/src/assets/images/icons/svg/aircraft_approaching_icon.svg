@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+&lt;svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100"&gt;
+    &lt;style&gt;
+        .small { font: italic 13px sans-serif; }
+        .heavy { font: bold 30px sans-serif; }
+        .Rrrrr { font: italic 40px serif; fill: red; }
+    &lt;/style&gt;
+    &lt;path d="M10 80 Q 95 10 180 80 T 370 80" stroke="#000" fill="transparent"/&gt;
+    &lt;text x="20" y="35" class="small" fill="#550000"&gt;Airplane icon&lt;/text&gt;
+    &lt;text x="40" y="70" class="heavy"&gt;Aircraft is approaching&lt;/text&gt;
+    &lt;text x="50" y="100" class="Rrrrr"&gt;This is red text!&lt;/text&gt;
+&lt;/svg&gt;
+
